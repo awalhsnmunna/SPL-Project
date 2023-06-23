@@ -486,7 +486,3 @@ void gotoxy(int x, int y)
     SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), c);
 }
 
-
-
-// If you have any kind of issue related to this project u can contact me.
-// My mail address: awalhossain1512@gmail.com
